@@ -1,6 +1,6 @@
 # Flood Fill com pilha e fila próprias
 
-Integrantes: **Nicholas**.
+Integrantes: ** Nicholas Tsuru Ramos e Vinícius Chella.**.
 
 Programa em Java, sem bibliotecas externas. Usa apenas as classes padrão do Java para
 abrir e salvar imagens. A pilha e a fila são implementadas aqui com nós encadeados.
